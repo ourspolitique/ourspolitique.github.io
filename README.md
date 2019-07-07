@@ -4,7 +4,7 @@
 
 关于为什么要学习社会科学思维方法，请看[致同学们](https://github.com/ourspolitique/Systeme/issues/1)。
 
-如果不想学习社会科学思维方法，只想应试，请转向[ours应试教育语录](https://github.com/ourspolitique/ourspolitique.github.io/issues/1)。
+如果不想学习社会科学思维方法，只想应试，请转向[ours学习语录](https://github.com/ourspolitique/ourspolitique.github.io/issues/1)。
 
 ## 一、政治学
 
