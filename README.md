@@ -1,11 +1,94 @@
-大家好，我来自北京，是一名高中政治教师，绰号白熊，送外卖的小哥都叫我白先生，法国人经常将我所教的学科和绰号放在一起，称呼我为ours politique，这也是我的用户名的由来。当然如果你英语法语分不清楚，把它理解为“我们的政治学”也不是不可以。
+# Jekyll Resume Theme
 
-下面我们可以开始社会科学思维方法的学习了。
+Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 
-关于为什么要学习社会科学思维方法，请看[致同学们](https://github.com/ourspolitique/Systeme/issues/1)。
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24d80ae8-c3d9-4645-a6d8-9e97fc8dec3c/deploy-status)](https://app.netlify.com/sites/jekyll-theme-minimal-resume/deploys)
 
-如果想学习社会科学思维方法，请戳[社会科学思维方法](https://github.com/ourspolitique/ourspolitique.github.io/issues/2)。
+# Stack
 
-如果不想学习社会科学思维方法，想学习应试，请转向[ours学习语录](https://github.com/ourspolitique/ourspolitique.github.io/issues/1)。
+![](https://img.shields.io/badge/jekyll-✓-blue.svg)
+![](https://img.shields.io/badge/html5-✓-blue.svg)
+![](https://img.shields.io/badge/sass-✓-blue.svg)
+![](https://img.shields.io/badge/sweet--scroll-✓-blue.svg)
+![](https://img.shields.io/badge/particle--js-✓-blue.svg)
+![](https://img.shields.io/badge/font--awesome-✓-blue.svg)
+![](https://img.shields.io/badge/devicon-✓-blue.svg)
+![](https://img.shields.io/badge/gulp-✓-blue.svg)
 
-如果你还想了解政治老师是如何学习数学的，请看[ours数学学习札记](https://github.com/ourspolitique/ourspolitique.github.io/issues/3)。
+***
+
+<h3 align="center">Please help this repo with a :star: if you find it useful! :blush:</h3>
+
+***
+
+# Screenshot
+
+<p align="center">
+  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
+</p>
+
+# Quick Setup
+
+1. Install Jekyll: `gem install jekyll bundler`
+2. For this repository and clone your fork
+3. Edit `_config.yml` to personalize your site
+
+# Settings
+
+You have to fill some informations on `_config.yml` to customize your site:
+
+## Site settings
+```yml
+description: A blog about lorem ipsum dolor sit amet
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site
+```
+
+## User settings
+```yml
+username: Lorem Ipsum
+user_description: Software Engineer at Lorem Ipsum Dolor
+user_title: Mauricio Urraco
+email: mauriurraco@gmail.com
+```
+
+> Don't forget to change your URL before you deploy your site!
+
+# Color and Particle Customization
+
+- Color Customization
+  - Edit the `.sass` variables
+- Particle Customization
+  - Edit the json data in particle function in `app.js`
+  - Refer to `Particle.js` for help
+  
+# Content
+
+You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
+
+```html
+<a aria-label="My Github" target="_blank" href="https://github.com/murraco">
+  <i class="icon fa fa-github-alt" aria-hidden="true"></i>
+</a>
+```
+
+# Running locally
+
+In order to compile the assets and run `Jekyll` locally you need to follow those steps:
+
+1. Install Jekyll
+2. Run `jekyll build`
+3. Start and http-server in the folder `_site`
+
+# Contribution
+
+- Report issues
+- Open pull request with improvements
+- Spread the word
+- Reach out to me directly at <mauriurraco@gmail.com>
+
+# Donate
+
+`btc: 36V7HqqENSKn6iFCBuE4iCdtB29uGoCKzN`
+
+`eth: 0xB419E3E9fa2233383E0877d442e55C34B9C944dD`
