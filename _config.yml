@@ -7,9 +7,9 @@
 title: 思宇阁
 subtitle:
 description:
-author: John Doe
+author: Ours Politique
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -151,9 +151,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -232,7 +232,7 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
+# in directory: https://mug0.assets-yammer.com/mugshot/images/rRkWwD-2P4GdWQKz72GqjBZvd2x1xTKL
 #avatar:
 
 
