@@ -9,6 +9,3 @@
 如果不想学习社会科学思维方法，想学习应试，请转向[ours学习语录](https://github.com/ourspolitique/ourspolitique.github.io/issues/1)。
 
 如果你还想了解政治老师是如何学习数学的，请看[ours数学学习札记](https://github.com/ourspolitique/ourspolitique.github.io/issues/3)。
-
-
-注：推荐各位读者按Ctrl+鼠标左键在新标签页打开链接，保留本页面。
