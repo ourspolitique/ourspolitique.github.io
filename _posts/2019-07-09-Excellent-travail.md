@@ -14,4 +14,6 @@ tags:
 
 如果不想学习社会科学思维方法，想学习应试，请转向[ours学习语录](https://github.com/ourspolitique/ourspolitique.github.io/issues/1)。
 
-如果你还想了解政治老师是如何学习数学的，请看[ours数学学习札记](https://github.com/ourspolitique/ourspolitique.github.io/issues/3)。
+如果你还想了解政治老师是如何学习数学的，请看[ours数学学习札记](https://ourspolitique.github.io/2019/07/19/mathématiques/)。
+
+如果你还想了解政治老师是如何学会写代码的，那我可以直接告诉你，我是在互联网上自学的。
