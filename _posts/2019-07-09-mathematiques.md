@@ -30,9 +30,13 @@ tags:
 
 我是一名文科生，在高中三年特别是文理分科后的两年，我有足够多的时间学习数学（约等于理科生学习数学和物理的时间总和，还没有竞赛）。因此，我同时进行了高强度的刷题训练和归纳总结。在我的高二、高三两年里，我大约刷了600-800套数学模拟题，做了全国各地近五年的高考压轴题，总结了八本数学笔记，到了高三下学期，我甚至还“编写”了十套模拟试题用来“折磨”我的前桌。这些模拟题我一直保留着，想快乐一下的同学可以找我要，我现在还能想起一道当年的得意之作：
 
-> 已知关于<a href="https://www.codecogs.com/eqnedit.php?latex=x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x"  /></a>的方程<a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;|&space;3^{ln\left&space;(&space;\left&space;|&space;x&space;\right&space;|&space;\right&space;&plus;1)-1}&space;\right-1&space;|=k" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;|&space;3^{ln\left&space;(&space;\left&space;|&space;x&space;\right&space;|&space;\right&space;&plus;1)-1}&space;\right-1&space;|=k" /></a>恰好有三个不同的实数根，则<a href="https://www.codecogs.com/eqnedit.php?latex=k" target="_blank"><img src="https://latex.codecogs.com/gif.latex?k"/></a>的值为（   ）
+![一道函数题](https://ourspolitique.github.io/assets/images/20190722.png)
 
 这道题既有简便的做法，也有复杂的做法。如果你既能想到简便的做法，又能思路清晰地按照复杂的做法解出这道题，在我看来，你的初等函数就算过关了。
+
+但如果偏要将我的数学学习思路归个类，我想我还是偏向于归纳总结的。这种选择源于我在高中时代对确定性的偏执，我缺少面对未知时的信心，或者说“数学勇气”。
+
+在我看来，所谓“信心”有两种来源，一种来源于经验积累，比如一个有多年教学经验的老师比初出茅庐的老师更有信心，这是因为有经验的老师经历过许多复杂的教学情境，相比年轻老师“更有信心”能够上好一堂课；另一种则来源于一种来自内心的勇气，比如还是这两位教师，经验丰富的老师突然遇到了此前没有遇到了教学状况就手足无措，而年轻老师虽然经验不够丰富，但敢于面对未知的挑战，解决突发事件时比前者显得更从容，那么我们就会说年轻老师更“自信”，对自身能力“更有信心”。做数学题时也是一样，我们会面临许多陌生复杂的数学情境，一些人会欣然面对挑战，借助自身已有的经验与方法的积累，锲而不舍地解决一道道难题，而我则显得不够自信，或者说缺少面对未知、迎难而上的“数学勇气”。因此，我的解决方案是通过系统的归纳总结，探究大部分高考题目背后的规律，通过经验和理性认识降低这种不确定性，获得解题时的“信心”与“数学勇气”。当然一定存在从未遇到、或是难以总结的复杂问题，但是经过归纳总结的大工程，这样的问题就少很多了，从“三座大山”变成了“一座小山”，我想我还是有勇气去攀爬一下的。
 
 #### 初等函数与不等式
 
